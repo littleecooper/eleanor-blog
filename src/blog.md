@@ -2,6 +2,8 @@
 
 Today I had put all my coding and tech development time into applying for the Autumn CFG course. 
 
+more stuff
+
 ## 5th June 2024
 
 I had started off the day with completing another section of Mimo where it was testing all my current knowledge around the basics of HTML. I was tested on how to write a heading, create a paragraph, write a link and place images on the screen. I was so happy when I had answered all these questions correctly, I did have to think a lot about adding a link as I was unsure if I had spelt the 'href' correctly as I was aware of me keep spelling it as 'herf. I am so pleased I have now drummed this spelling into my head. 
