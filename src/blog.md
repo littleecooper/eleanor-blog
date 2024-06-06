@@ -1,8 +1,7 @@
 ## 6th June 2024
+Today I had put all my coding and tech development time into applying for the Autumn CFG course. I am hoping I get this opportunity as it will help to fill in knowledge gaps and upskill. 
 
-Today I had put all my coding and tech development time into applying for the Autumn CFG course. 
-
-more stuff
+I am currently also learning how to commit my work onto GitHub by using the Git Status command on the terminal as I have added this blog onto GuitHub. I have noticed everytime I do Git Status it will notify me if any changes have happened and then if I type Git add . (dot meaning everything)into the termial and then when I type Git Commit it will go onto the terminal. I was so proud of myself for putting this into practice after learning about it from the MOOC sprint provided by Code First Girls. 
 
 ## 5th June 2024
 
