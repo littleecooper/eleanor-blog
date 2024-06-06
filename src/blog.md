@@ -12,6 +12,8 @@ I am currently also learning how to commit my work onto GitHub by using the Git 
 7. The modified file(s) will then turn green instead of red
 8. Then type `git push` and this "push" your changes to your remote GitHub repository. 
 
+Or I can use the vscode git UI.
+
 ## 5th June 2024
 
 I had started off the day with completing another section of Mimo where it was testing all my current knowledge around the basics of HTML. I was tested on how to write a heading, create a paragraph, write a link and place images on the screen. I was so happy when I had answered all these questions correctly, I did have to think a lot about adding a link as I was unsure if I had spelt the 'href' correctly as I was aware of me keep spelling it as 'herf. I am so pleased I have now drummed this spelling into my head. 
