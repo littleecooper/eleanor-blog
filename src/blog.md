@@ -3,6 +3,15 @@ Today I had put all my coding and tech development time into applying for the Au
 
 I am currently also learning how to commit my work onto GitHub by using the Git Status command on the terminal as I have added this blog onto GuitHub. I have noticed everytime I do Git Status it will notify me if any changes have happened and then if I type Git add . (dot meaning everything)into the termial and then when I type Git Commit it will go onto the terminal. I was so proud of myself for putting this into practice after learning about it from the MOOC sprint provided by Code First Girls. 
 
+1. Complete my changes onto the document(s)/code
+2. Type in `git status` onto the terminal. This will show you all of the modified file names.
+3. See if any modifications have been made (they will come up in red)
+4. OPTIONAL; Do `git diff` to view the changes 
+5. If you are happy, type `git add .` (the `.` will stage all modified files). Alternatively you can do `git add path/to/file` to stage a specific file.
+6. Then you type `git commit -m "your commit message"` (the `-m` stands for message) 
+7. The modified file(s) will then turn green instead of red
+8. Then type `git push` and this "push" your changes to your remote GitHub repository. 
+
 ## 5th June 2024
 
 I had started off the day with completing another section of Mimo where it was testing all my current knowledge around the basics of HTML. I was tested on how to write a heading, create a paragraph, write a link and place images on the screen. I was so happy when I had answered all these questions correctly, I did have to think a lot about adding a link as I was unsure if I had spelt the 'href' correctly as I was aware of me keep spelling it as 'herf. I am so pleased I have now drummed this spelling into my head. 
