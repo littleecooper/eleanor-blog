@@ -1,3 +1,9 @@
+## 7th/8th June 2024
+
+I had spent this weekend solely focusing on my Autumn CFG degree application for the Acitivison/Blizzard Full stack development role. I have been talking about my GitHub MOOC Sprint and also talking about this blog. I have good feelings about this apllication so I am keeping my fingers crossed!! 
+
+I aim to focus more on the MOOC sprint now that I am close to finishing my CFG degree application.  
+
 ## 6th June 2024
 Today I had put all my coding and tech development time into applying for the Autumn CFG course. I am hoping I get this opportunity as it will help to fill in knowledge gaps and upskill. 
 
