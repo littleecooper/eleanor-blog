@@ -1,3 +1,27 @@
+## 23rd June 2024
+
+I have come back to coding after a week break, things have been super busy but I have managed to keep revising and keeping in touvh with my tech progessions. I had completed the application itself and the video interview for my CFG degree Activision blizzard position. I felt like I perfomed the best I could and am now anxiously waiting for a response. I am hoping ym passion came through and how I want to go above and beyond to make a career in the tech industry. 
+
+I may have to take a bigger step back from learning coding as I have a wedding coming up so my attenton is a bit divided but I am still determined to become an entry level developer for a full stack position. 
+
+Today I had continued my MOOC sprint on GitHub and had learnt the following commands for branches: 
+
+Git Branch "name of branch"
+. This creates a new branch 
+
+Git Switch "name of branch you want to go to" 
+. Switch to that exisiting branch 
+
+Git checkout - b "branch name" 
+. Creates a new branch and immediately switches to it 
+
+Git branch - d "branch name" 
+. Deletes the branch you have stated in the branch name 
+
+Git Branch 
+. Lists all the branches
+
+
 ## 7th/8th June 2024
 
 I had spent this weekend solely focusing on my Autumn CFG degree application for the Acitivison/Blizzard Full stack development role. I have been talking about my GitHub MOOC Sprint and also talking about this blog. I have good feelings about this apllication so I am keeping my fingers crossed!! 
