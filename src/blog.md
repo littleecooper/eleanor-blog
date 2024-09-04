@@ -1,3 +1,17 @@
+## 4th September 
+
+I have had a bit of a sad day today. I have spent the past couple of months wiriting in the blog about things that I have been doing with my coding but unfortunately my laptop had died and I didn't push any of it onto github which means I have lost a lot of work in this time. This has allowed me to learn the hard why how important it is to regularly push all your work onto Github after you have completed it. I am going to take my laptop to the apple store over the upcoming week and hopefully they will be able to get it working today. 
+
+Incase they are unable to do that, here is what I have accompolished over the past xouple of months: 
+
+- created a FizzBuzz game in Python - the user types in a number and the computer will tell it whether it is Fizz, Buzz or FizzBuzz up until the number they have typed in (Fizz = denominator of 3, Buzz = denominator of 5 and FizzBuzz = denominator of 3 and 5). 
+- Completed a GitHub Massive Online Class (MOOC) facilitated by Code First Girls
+- Started another MOOC about Javascript 
+- Challenged myself to another python challenge where the computer guesses a number from 1-100 and the uswer has to predict it using prompts from the computer. 
+
+Today I had spent my coding time finishing a recap for session 1 (did the first class last week and completed the quiz) and started writing notes for session two. 
+
+
 ## 23rd June 2024
 
 I have come back to coding after a week break, things have been super busy but I have managed to keep revising and keeping in touvh with my tech progessions. I had completed the application itself and the video interview for my CFG degree Activision blizzard position. I felt like I perfomed the best I could and am now anxiously waiting for a response. I am hoping ym passion came through and how I want to go above and beyond to make a career in the tech industry. 
