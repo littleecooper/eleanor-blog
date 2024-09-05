@@ -10,8 +10,6 @@ const greeting = `¢{emoji} ¢{greeting} ¢{emoji}`
 
 This example I had copied from the CFG course but I thought it would be useful to include in this entry as a reminder of what interpolation looks like. 
 
-
-
 ## 4th September 
 
 I have had a bit of a sad day today. I have spent the past couple of months wiriting in the blog about things that I have been doing with my coding but unfortunately my laptop had died and I didn't push any of it onto github which means I have lost a lot of work in this time. This has allowed me to learn the hard why how important it is to regularly push all your work onto Github after you have completed it. I am going to take my laptop to the apple store over the upcoming week and hopefully they will be able to get it working today. 
