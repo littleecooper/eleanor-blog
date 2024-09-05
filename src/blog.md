@@ -1,3 +1,17 @@
+## 5th September 
+
+I am going to spend today catching up on my MOOC sprint as I missed session two on wednesday due to my laptop issues. I am hoping I will get a good chunk completed today and can then complete the quiz for week 2. This means I will be up-to-date with my Javascript MOOC. I am then going to link it onto my GitHub account. 
+
+I have been religiously checking the 'Get into Tech' sky application and it has not yet opened. I want to start doing some application preparation for them so as soon as it opens I will be prepared. I wish to apply asap as this would be an incredible oppoirtuinity to reduce knowledge gaps that I have in the tech world. This is why I am currently doing a MOOC with Javascript because it is in one of the modules for this course and it will give me a head start into the programme if I am a successful candidate. This is why I am going to continue with this. 
+
+In the MOOC today I had learnt about a different way to concatenate variables called interpolation and it can be recognised with backticks (`). US dollar signs (¢) and the curley brackets ({}). The syntax for merging these variables together are as follows: 
+
+const greeting = `¢{emoji} ¢{greeting} ¢{emoji}` 
+
+This example I had copied from the CFG course but I thought it would be useful to include in this entry as a reminder of what interpolation looks like. 
+
+
+
 ## 4th September 
 
 I have had a bit of a sad day today. I have spent the past couple of months wiriting in the blog about things that I have been doing with my coding but unfortunately my laptop had died and I didn't push any of it onto github which means I have lost a lot of work in this time. This has allowed me to learn the hard why how important it is to regularly push all your work onto Github after you have completed it. I am going to take my laptop to the apple store over the upcoming week and hopefully they will be able to get it working today. 
@@ -51,6 +65,7 @@ I am currently also learning how to commit my work onto GitHub by using the Git 
 2. Type in `git status` onto the terminal. This will show you all of the modified file names.
 3. See if any modifications have been made (they will come up in red)
 4. OPTIONAL; Do `git diff` to view the changes 
+5. Press Q to quit out of Git diff
 5. If you are happy, type `git add .` (the `.` will stage all modified files). Alternatively you can do `git add path/to/file` to stage a specific file.
 6. Then you type `git commit -m "your commit message"` (the `-m` stands for message) 
 7. The modified file(s) will then turn green instead of red
