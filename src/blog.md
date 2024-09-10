@@ -1,3 +1,14 @@
+## 10th September
+
+Today has been exciting because the sky 'Get into Tech' course has provided dates on when applications will go live - this is the 30th of September! Applications will close the 1st of November so I will have plenty of time to apply to this in between. I am going to work to the best of my ability in the meantime and put my upmost effort into it! The dates are officially in the diary. 
+
+I am now going to spend a little bit of time going over session 2 for the MOOC sprint for Javascript. In this, I was learning about the prompt function and the MOOC course had inspired me to create my own little piece of code where I was aiming to make a program that will convert GBP into Yen. I had chosen yen because I am going to Japan next May. I had started this code in Javascript but unfortunately it is still not working as of yet. This is something that I am deciding to accompolish in the upcioming months. However, I had also decided to learn this piece of code in Python in which I had achieved! 
+
+A learning curve I had wigth this currency converter is that in the JS file, it was not working because I only had a single Javascript file and it was not yet connected to a CSS or HTML file so the question wasn't popping up on another page. This is something I will explore next time I work on it. 
+
+In addition, my python file of my currency converter had come up with an error. This is because I was trying to times an interger number with a float number (the currency exchange itself) and python was erroring with this. To overcome this, I put the float() function in front of the gbp variable and this fixed the piece of code. I then uploaded my python file onto github. Was a super productive session today. 
+
+
 ## 5th September 
 
 I am going to spend today catching up on my MOOC sprint as I missed session two on wednesday due to my laptop issues. I am hoping I will get a good chunk completed today and can then complete the quiz for week 2. This means I will be up-to-date with my Javascript MOOC. I am then going to link it onto my GitHub account. 
