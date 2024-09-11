@@ -1,3 +1,16 @@
+## 11th September 
+
+Today I had spent my coding session completing session two of the Javascript MOOC sprint and answering the quiz questions. I thoroughly enjoyed this session because we had learnt about comparison operators and was given a demo to see how you can use this within data. For example, we were shown how to ask somebody their age as the hockey club was for adults so they had to ensure the applicant was over 18. In addition, I had learnt about the primitative data type called Booleans that give you true or false based on the data conditions. 
+
+This session had also highlighted the importance the difference between let and const.
+
+Const = variables that do not/ will not change
+
+
+let = a variable that can be reassigned 
+
+This was an interesting session and I had learnt more about coding in Javascript. I had completed the quiz and scored 4/4 on my first try. I was so happy about this!! Looking forward to completing session 3 soon. 
+
 ## 10th September
 
 Today has been exciting because the sky 'Get into Tech' course has provided dates on when applications will go live - this is the 30th of September! Applications will close the 1st of November so I will have plenty of time to apply to this in between. I am going to work to the best of my ability in the meantime and put my upmost effort into it! The dates are officially in the diary. 
