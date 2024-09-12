@@ -1,3 +1,10 @@
+## 12th September 
+
+I have decided that I am going to go full steam ahead with the Javascript MOOC as I want to complete this before the end of September so then I can focus more time on the 'Get into Tech' sky course. This MOOC is important because the sky course will have a module on Javascript, CSS and HTML. I have learnt a lot of HTML through a mobile app called Mimo. 
+
+Today I am going to be starting with session 3 which involves learning about conditional statements, logical operators, functions and data types. I had gone through conditional statements and logical operators this evening. This was a good refresh as I had learnt about if/else statements before in the python kickstarter course but I had learnt the syntax of these conditional statements in Javascript. This was a good coding session for me! 
+
+
 ## 11th September 
 
 Today I had spent my coding session completing session two of the Javascript MOOC sprint and answering the quiz questions. I thoroughly enjoyed this session because we had learnt about comparison operators and was given a demo to see how you can use this within data. For example, we were shown how to ask somebody their age as the hockey club was for adults so they had to ensure the applicant was over 18. In addition, I had learnt about the primitative data type called Booleans that give you true or false based on the data conditions. 
