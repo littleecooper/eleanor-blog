@@ -1,3 +1,28 @@
+## 14th September 
+
+Today I am going to spend more time completing the MOOC sprint for the Javascript course facilitated by CFG. After I am up-top-date with this, I aim to spend my coding time preparing for the 'Get into Tech' application for the sky course and also start to change the style of my website and create more mini games to uploads onto my GitHub account. I have so much coding to look forward to which I am excited about! :) 
+
+I had learnt about Boolean operators today in detail which are as follows: 
+
+&& - AND - returns true if BOTH values are true otherwise, it will return a flas value
+
+|| - OR - returns true if one or both values are true 
+
+! - NOT - this flips the value and should be placed infront of the value. 
+
+When the tutor was going through a demo on this, I had noticed that in the syntax of the code that the ! operator would be infront of the vairable. For instance, in her example she had used the example of scary movies and had the syntax as follows: 
+
+let isScary = true
+let hasPillow = false
+
+if (isScary && !hasPillow) {
+    console.log("I will not watch this!)
+}
+
+I was proud of myself for noticing the syntax and learning the syntax of all these moderators so quickly and also for remembering that Let is used when a value is constanlty changing and thats why const wasn't used in this instance because both the values could change depending on the persons circumstances. 
+
+Javascript does not have captialised booleans BUT python does. I had learnt this from my husband who is a software engineer. 
+
 ## 12th September 
 
 I have decided that I am going to go full steam ahead with the Javascript MOOC as I want to complete this before the end of September so then I can focus more time on the 'Get into Tech' sky course. This MOOC is important because the sky course will have a module on Javascript, CSS and HTML. I have learnt a lot of HTML through a mobile app called Mimo. 
