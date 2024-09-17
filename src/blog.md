@@ -1,3 +1,7 @@
+## 17th September 
+
+I had completed session 3 of the MOOC sprint and learnt about Null and undefined data types. I then completed the MOOC 3 quiz and scored 4/4. I am finally understanding Jacascript more and wish to start doing my own code around this! 
+
 ## 14th September 
 
 Today I am going to spend more time completing the MOOC sprint for the Javascript course facilitated by CFG. After I am up-top-date with this, I aim to spend my coding time preparing for the 'Get into Tech' application for the sky course and also start to change the style of my website and create more mini games to uploads onto my GitHub account. I have so much coding to look forward to which I am excited about! :) 
