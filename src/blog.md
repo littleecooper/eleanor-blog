@@ -1,3 +1,8 @@
+## 18th of September 
+
+I have just listened to the whole session of session 4 and have made a few detailed notes. It was interesating to learn about arrays and the push and pop method in javascript. I want to mess around with arrays a bit more to fully understand them so I may make myself a challenge around them and see if I can turn them into a game. Maybe I can use them as a pokedex where the person will write in a number and then it will tell them the pokemon that fits that index? This is something for the future to think more about. This is something I want to practice more as it will help to practice my skills and solidify my knowledge. 
+
+
 ## 17th September 
 
 I had completed session 3 of the MOOC sprint and learnt about Null and undefined data types. I then completed the MOOC 3 quiz and scored 4/4. I am finally understanding Jacascript more and wish to start doing my own code around this! 
