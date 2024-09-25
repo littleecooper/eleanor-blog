@@ -1,3 +1,17 @@
+## 25th September 
+
+I am proud to say I have officially completed my Javascript MOOC facilitated by Code First Girls!! I had learnt so much within this session and I am pleased i will be able to carry these skills with me throughout my mini challenges and my coding career. I am so pleased I have completed this and I look forward to enrolling onto another one in the future. 
+
+From this, I am going to set some mini targets for myself which include : 
+
+1) Uploading all my work from the CFG Kickstarter onto my GitHub account 
+2) Create more mini games using python or javascript 
+3) Apply for the Get into Tech course facilitated by Sky 
+4) Search for more online courses 
+5) Complete more pizzles on Hackerrank 
+
+I am determined to go through more of these to help improve my coding skills for the better and get more confident with coding. 
+
 ## 18th of September 
 
 I have just listened to the whole session of session 4 and have made a few detailed notes. It was interesating to learn about arrays and the push and pop method in javascript. I want to mess around with arrays a bit more to fully understand them so I may make myself a challenge around them and see if I can turn them into a game. Maybe I can use them as a pokedex where the person will write in a number and then it will tell them the pokemon that fits that index? This is something for the future to think more about. This is something I want to practice more as it will help to practice my skills and solidify my knowledge. 
