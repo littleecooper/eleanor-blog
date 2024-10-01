@@ -1,3 +1,21 @@
+## 30th September / 1st October
+
+Today is a very exciting day. 
+
+The Get into Tech Sky application has officially opened for their next cohort of students so I am going to slowly start applying to this throughout the October month. Also, I am going to start working on my pokemon top trumps code and aim to write it in Python as this is a language I haven't practiced in a while. I will acheieve this by writing it on VSC Code. 
+
+I was going through all my old notes and had come across a mini homework assignment I had completed for the Code First Girls Kickstarter course where we had to write a piece of code to work out how many eggs are in the fridge. The aim of this assignment is to use different operator types and to use the PC to work out calculations. The aim of the assignment was to determine how many eggs were in the fridge and based on how many eggs you have, determines how many omelettes you could make. I uploaded this code onto my challenges page onto mu Github account.
+
+ When I was completing the eggs piece of code it had initally errored because I had taken the values which I had gained from the input question and had forgotten to add the int() function. int() - defines numerical values. This was a good refresher from my Python Kickstarter course. I aim to code more stuff on this page within the upcoming weeks. 
+
+ I also used time on the 1st of October to look through the 'Get into Tech' Sky application and have been drafting responses to the questions already. This has been a good refelction of my coding journey already and it has enabled me to become more motivated to start my Tech career. 
+
+
+## 26th September 
+
+I realised today that I unfortunately cannot upload my work from the Code First Girls Kickstarter course which I completed last year because it was all on my previous laptop which is busted. I am hoping I will be able to fix this laptop when I book it in to the apple store and hope i will be able to recover the work and then upload it onto this account. On this course, I had created a Pokemon Top Trumps game where I used Rest API's to gather the data from a pokemon web URL and then use this to extract the data I needed to compare the pokemon stats. I may redo this challenge and then upload it onto my GitHub account - this will act as a good memory to revist the topics but also I can think of ways to improve upon this project. 
+
+
 ## 25th September 
 
 I am proud to say I have officially completed my Javascript MOOC facilitated by Code First Girls!! I had learnt so much within this session and I am pleased i will be able to carry these skills with me throughout my mini challenges and my coding career. I am so pleased I have completed this and I look forward to enrolling onto another one in the future. 
@@ -8,7 +26,7 @@ From this, I am going to set some mini targets for myself which include :
 2) Create more mini games using python or javascript 
 3) Apply for the Get into Tech course facilitated by Sky 
 4) Search for more online courses 
-5) Complete more pizzles on Hackerrank 
+5) Complete more puzzles on Hackerrank 
 
 I am determined to go through more of these to help improve my coding skills for the better and get more confident with coding. 
 
