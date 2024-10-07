@@ -1,3 +1,20 @@
+## 7th October 
+
+I had a couple of days away from coding because I was unfortuantly ill and was focusing on recovering. During this time, I did miss coding and missed working on my coding skills so I am now going to get motivated again now I have recovered from my cold. 
+
+I am going to aim to complete more mini coding tasks after I have completed my application to the 'Get into Tech Sky' course. I will not update on here until I have applied for the course. Wish me luck! 
+
+
+## 2nd October 
+
+I have decided to spend the day either completing more mini games in Python or Javascript. The first challenge I am going to focus on is completing a game called 'Guess the Animal'. I am fortunate because my husband is a software engineer and he has been writing up mini assignments for me to complete to test my coding skills and this mini game is a challenge that he has given to me to complete. This mini game of guess the animal is a piece of code I am going to focus on today and aim to make significant progress with it. I am also determined to make progress on my application of Get into Tech faciliated by Sky. Both of these are things I aim to make progress with. 
+
+Guess the animal: 
+
+For context, this game will involve the player being asked to choose a random animal from the list and they have to see if they can guess the correct animal that the computer has also guessed. This means I have had to include a while loop, if/elif and else statements and also a import a random function so the computer knows to pick a random animal from the list. 
+
+I had started off with this work with great progress! I had managed to find a function which enabled the computer to pick a random animal from the list. Originally, I used the .randint() option to pick the animal but then soon realised that this function is only useful for data that has intergers involved. I then looked up other functions to overcome this issue and had discovered the random.choice() piece of code on W3Schools. This was useful because I used this piece of code to ensure the computer picks an animal from the set list. I had then started to write the while loop out and had put if/elif and else statements within this. I felt like I was making tonnes of progress with this until, I had run the programme and then it caused a recurring loop which would not stop.      DELETE IF CARRY ON WITH WORKß   This is something I need to investigate further. 
+
 ## 30th September / 1st October
 
 Today is a very exciting day. 
