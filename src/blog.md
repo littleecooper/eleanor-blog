@@ -1,3 +1,8 @@
+## 8th October 
+
+I had signed up to a CFG degree interview help seminar and this was so useful as I realise where I was going wrong with my applications. I was so focused on answering the questions and trying to get as much content in as possible that I wasn't letting my enthusiam that I have for the tech industry to shine through. This is something I want to focus on for the next application and hope I will be able to get a place onto the next cohort of students. I am looking forward to improving upon my interpersonal skills and also my skillset to be able to become a valuable team member to a tech course one day. These are my goals and I am going to work hard to acheieve them. ß
+
+
 ## 7th October 
 
 I had a couple of days away from coding because I was unfortuantly ill and was focusing on recovering. During this time, I did miss coding and missed working on my coding skills so I am now going to get motivated again now I have recovered from my cold. 
