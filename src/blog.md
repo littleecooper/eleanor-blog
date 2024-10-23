@@ -1,6 +1,30 @@
+## 23rd October 
+
+Wow, what a busy month this has turned out to be! There have been so many events going on and so many applications to complete. 
+
+Since the last time that I have written on here, I have completed the 'Get into Tech' application with Sky and keeping my fingers crossed that I will be invited for an interview. I worked hard on this and I am so pleased that I have been able to submit it. In addition, I had completed the tech assessment for ther CFG application process for the DSTL learning opportunity which I passed and have now been invited to a video interview. I have also attended a workshop on tips about how to be a successful applicant for the CFG degree and will use these tips when I complete the video interview today. There have been so many applications but I am glad I am going applying to them all to the best of my ability. 
+
+In addition to these applications, I have also been working on my piece of code for the 'Guess the animal' mini game and have come to a few halts with it. I have sucessfully written a piece of code which makes the computer pick a random animal from the options in my dictionary which I was pleased about. This is how I achieved it: 
+
+random_animal = random.choice(animals)
+
+
+I am finding the next part of the code the most difficult as I have to use a while loop and if, elif and else statements. I have managed to create an infinite while loop and I am still figuring out how I managed to do this. i am determined to get the code completed by looking at tutorials and resources like w3schools. These are all learning experiences that will help me to learn more code. 
+
+I had a productive day today as I completed the CFG degree video interview for the next stage of the application process. I am not sure how this is going to go as I was flustered with so many questions and I kept looking away and felt anxious. I hope I can get past this stage and go onto learning on the course. 
+
+I had also completed my guess the amnimal puzzle which I was over the moon about - I had managed to complete it and was super happy about this!! I learnt so much about while loops and about how the conditions need to be met before the loop is broken. I had managed to break my infinite while loop and am now uploaded all the changes onto GitHub! An overall happy and productive day!! 
+ 
+
+## 16th October 
+
+I am aware I haven't written in here for a while as I have been caught up with other tech assessment applications.  I am so close to completing my get into tech application with Sky and I am also aiming to complete the tech assessment needed for the CFG degree. Wish me luck! 
+
 ## 8th October 
 
-I had signed up to a CFG degree interview help seminar and this was so useful as I realise where I was going wrong with my applications. I was so focused on answering the questions and trying to get as much content in as possible that I wasn't letting my enthusiam that I have for the tech industry to shine through. This is something I want to focus on for the next application and hope I will be able to get a place onto the next cohort of students. I am looking forward to improving upon my interpersonal skills and also my skillset to be able to become a valuable team member to a tech course one day. These are my goals and I am going to work hard to acheieve them. ß
+I had signed up to a CFG degree interview help seminar and this was so useful as I realise where I was going wrong with my applications. I was so focused on answering the questions and trying to get as much content in as possible that I wasn't letting my enthusiam that I have for the tech industry to shine through. This is something I want to focus on for the next application and hope I will be able to get a place onto the next cohort of students. I am looking forward to improving upon my interpersonal skills and also my skillset to be able to become a valuable team member to a tech course one day. These are my goals and I am going to work hard to acheieve them. 
+
+One of the guest speakers for this seminar had included additional websites that can help you to practice coding which included CodePen, Scrimba, Codewars and Codeacademy. I have already been on Codeacademy before but I may go back onto it and also give the other websites a go. An opportunity to increase my coding skills I want to take and go for it with a full steam ahead attitude ! 
 
 
 ## 7th October 
